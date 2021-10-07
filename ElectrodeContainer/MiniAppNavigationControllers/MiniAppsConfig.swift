@@ -24,6 +24,7 @@ open class MiniAppsConfig {
 
     public let miniApps = [
                 "ShoppingListMiniapp",
+                "ShoppingProductMiniapp",
     ]
 
 }

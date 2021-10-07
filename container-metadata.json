@@ -2,7 +2,8 @@
   "ernVersion": "0.48.4",
   "jsApiImpls": [],
   "miniApps": [
-    "@tranducduong1994/shopping-list-miniapp@0.0.2"
+    "@tranducduong1994/shopping-list-miniapp@0.0.2",
+    "@tranducduong1994/shopping-product-miniapp@0.0.2"
   ],
   "nativeDeps": [
     "react-native@0.64.0",
